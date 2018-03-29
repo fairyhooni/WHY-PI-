@@ -1,2 +1,2 @@
-# WHY-PI-
+# WHY PI 
 the PI value calculator
